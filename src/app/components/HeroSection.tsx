@@ -51,7 +51,7 @@ export const HeroSection = () => {
               </button>
             </Link>
             <button className=" p-1 w-fit sm:w-fit rounded-full mr-4 mb-4 sm:mb-0 cursor-pointer relative group overflow-hidden border-2 px-8 py-2 border-[#EEE600]" >
-              <a href={"https://drive.google.com/file/d/1sWqRjrGKHLwcbMX63Kzbqh2T_Ah-CEOL/view?usp=drive_link"} target="_blank" rel="noopener noreferrer" download="nombre_pretendido_del archivo.pdf">
+              <a href={"https://drive.google.com/file/d/10-QEYuxmoKgT6N0dGkdqxiUpeoUwn2ti/view?usp=sharing"} target="_blank" rel="noopener noreferrer" download="nombre_pretendido_del archivo.pdf">
               <span className="font-bold text-black text-xl relative z-10 group-hover:text-[#EEE600] duration-300">
                 Descargar CV
               </span>
