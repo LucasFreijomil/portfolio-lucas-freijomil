@@ -32,7 +32,7 @@ const projectsData = [
     title: "Get Fit",
     description: "Proyecto grupal realizado en el bootcamp Full-Stack Henry. Un ecommerce destinado a la venta de suplementos, artículos e indumentaria deportiva.",
     image: "/images/projects/get_fit.png",
-    gitUrl: "https://github.com/GetFitORG/GetFit-app",
+    gitUrl: "",
     previewUrl: "",
   },
   {
